@@ -1,1 +1,1 @@
-# SmartGraceMarkCalculator
+# SmartGraceMarkCalculator using Django
